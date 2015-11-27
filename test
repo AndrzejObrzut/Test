@@ -1,0 +1,8 @@
+public class Test
+{
+  public static void main(Strings[]args)
+  {
+    String test = "test";
+    system.out.println(test);
+  }
+}
